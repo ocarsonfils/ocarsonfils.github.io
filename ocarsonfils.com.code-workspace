@@ -4,12 +4,6 @@
 			"path": "."
 		},
 		{
-			"path": "../../home/codespace"
-		},
-		{
-			"path": ".."
-		},
-		{
 			"path": "../.."
 		}
 	],
