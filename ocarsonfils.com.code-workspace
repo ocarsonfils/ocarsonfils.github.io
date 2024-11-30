@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "codespaces+redesigned-system-7vpwp947r7j7hx7rp",
+			"path": "../.."
 		},
 		{
-			"path": "../.."
+			"name": "ocarsonfils.com",
+			"path": "."
 		}
 	],
 	"settings": {}
