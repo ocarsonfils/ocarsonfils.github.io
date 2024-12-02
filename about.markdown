@@ -1,3 +1,9 @@
+---
+layout: archive 
+title: About
+permalink: /about/
+---
+
 <!--
 ---
 layout: page
@@ -7,11 +13,7 @@ permalink: /about/
 -->
 
 <!-- Changed layout from page to archive -->
----
-layout: archive 
-title: About
-permalink: /about/
----
+
 
 <!-- About Page content -->
 # Hi! I'm O'Carson Fils
