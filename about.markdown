@@ -16,7 +16,7 @@ permalink: /about/
 
 
 <!-- About Page content -->
-# Hi! I'm O'Carson Fils
+# Hi! I'm O'Carson Fils.
 I graduated from the University of South Florida in May 2024, with a Bachelor of Science in Business Analytics and Information Systems.
 During college, I participated in the Debut Labs startup incubator program, and am working as a Technology Analyst at Citi to develop my software and data engineering skills.
 
@@ -25,6 +25,14 @@ I am passionate about how technology and startups can solve meaningful problems,
 I'm currently looking for any gig, contract or startup-related work that utilizes my experience and allows me to grow my knowledge of my software engineering and product management skills. 
 I'd also love to connect with anyone else that shares these interests!
 
+## My Skills 
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
 
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
