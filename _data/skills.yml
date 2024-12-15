@@ -1,15 +1,17 @@
 technical:
- - title: CSS and SCSS
+ - title: Python
    level: Intermediate
- - title: HTML5
+ - title: SQL Server
    level: Intermediate
- - title: JavaScrpt
-   level: Advanced
- - title: ReactJS
-   level: Advanced
+ - title: C#
+   level: Intermediate
+ - title: Excel VBA
+   level: Intermediate
+ - title: Splunk SPL
+   level: Intermediate
 
 soft:
- - title: Writing
-   level: Intermediate
  - title: Leadership
+   level: Intermediate
+ - title: Public Speaking
    level: Intermediate
