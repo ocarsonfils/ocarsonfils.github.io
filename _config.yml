@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  ocarsonfils
 
 # Build settings
-# !!!! I commented this default code out
+# !!!! I commented this default code out below
 # theme: minima
 # plugins:
 #  - jekyll-feed

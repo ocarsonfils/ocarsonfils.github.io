@@ -18,7 +18,7 @@ permalink: /about/
 <!-- About Page content -->
 # Hi! I'm O'Carson Fils.
 I graduated from the University of South Florida in May 2024, with a Bachelor of Science in Business Analytics and Information Systems.
-During college, I participated in the Debut Labs startup incubator program, and am working as a Technology Analyst at Citi to develop my software and data engineering skills.
+During college, I participated in the Debut Labs startup incubator program, and am working as a Technology Analyst at Citi to develop my data science and software engineering skills.
 
 I am passionate about how technology and startups can solve meaningful problems, and love to envision how they impact the future of our world.
 
